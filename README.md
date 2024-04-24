@@ -9,7 +9,7 @@ SDMS is made available under the MIT licence.
 
 ## Features
 
-* Server hardening
+* Server hardening along with secure configuration
   * nftables firewall
   * Unattended upgrades
   * Diffie-Hellman parameters generation
